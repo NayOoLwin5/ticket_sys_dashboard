@@ -7,7 +7,6 @@ import { Card, CardContent } from "@/components/ui/card"
 import { BorderBeam } from "@/components/magicui/border-beam"
 
 const features = [
-
 ]
 
 export function FeatureCards() {
